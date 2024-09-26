@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **C ,C++, Java, HTML CSS, JavaScript, Python, DSA**
+- 🌱 I’m currently learning **C ,C++, Java, HTML CSS, R, Python, DSA**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/harshita-srivastava-a567b029b/](https://www.linkedin.com/in/harshita-srivastava-a567b029b/)
 
